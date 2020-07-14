@@ -8,9 +8,11 @@ Aplicativo de tarefas feito com React Native e armazenando dados no AsyncStorage
 * Async Storage
 * Expo 
 
-## 🤔 Como rodar?```
+## 🤔 Como rodar?
+```
 npm install
-expo start```
+expo start
+```
 
 * Baixar o app do expo no celular ou em algum emulador em sua máquina
 * Ler o QRcode
